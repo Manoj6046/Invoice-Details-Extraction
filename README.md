@@ -1,5 +1,3 @@
-The "AppSumo Invoice Details Extraction" project aims to automate the process of extracting invoice data for each individual user from the AppSumo platform. By securely logging in with user credentials, the automation retrieves the invoice PDFs associated with the user's account and extracts pertinent data from these documents. This streamlines the traditionally manual task of gathering invoice information, enhancing efficiency and accuracy in financial record-keeping.
-
 # Invoice-Details-Extraction
 Asset Name: 
 Appsumo_Config (Create this asset to Save the configuration file path in orchestrator)
